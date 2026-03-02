@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me
+# 💫 About Me:
 Tasnim Alkhatib Mohamed<br>Computer Science Student | Software Engineer | ASP.NET Core Developer<br><br>I am a Computer Science student with a strong passion for software engineering and system design. I specialize in building structured and scalable web applications using ASP.NET Core, EF Core, and SQL Server.<br><br>With hands-on experience in full-stack development, I have built role-based systems, e-commerce platforms, and management systems following layered architecture principles. I focus on clean code, organized project structure, and professional database design.<br><br>I also strengthen my problem-solving skills through competitive programming in C++, continuously improving my logical thinking and performance optimization abilities.<br><br>I am ambitious, detail-oriented, and always eager to learn, grow, and contribute to impactful software solutions.
 
 
