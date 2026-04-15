@@ -17,18 +17,13 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Africa/Cairo
           
-          # إظهار لغات البرمجة كدوائر (زي الصورة)
+          # تفعيل لغات البرمجة (الدوائر الملونة)
           plugin_languages: yes
           plugin_languages_details: percentage
-          plugin_languages_sections: most-used
           
-          # إظهار الرسم البياني (المنحنى)
+          # تفعيل الرسم البياني للأسطر (المنحنى)
           plugin_lines: yes
           
-          # إظهار التوقعات والنشاط (بيخلي الشكل "مليان")
-          plugin_followup: yes
-          plugin_introduction: yes
-          
-          # التنسيق والألوان
-          theme: tokyonight
-          config_order: header, activity, community, repositories, languages, lines, metadata
+          # إعدادات الشكل (Theme)
+          # ملاحظة: لو theme عمل مشكلة تانية، جربي تشيلي السطر ده وهيستخدم التلقائي
+          config_display: columns
