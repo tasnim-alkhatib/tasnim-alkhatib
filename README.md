@@ -1,23 +1,52 @@
-## Hi there 👋
+<div align="center">
+  <h3>Hi, I'm Tasnim Alkhaib Mohamed 👩‍💻</h3>
 
-# 💫 About Me:
-Tasnim Alkhatib Mohamed<br>Computer Science Student | Software Engineer | ASP.NET Core Developer<br><br>I am a Computer Science student with a strong passion for software engineering and system design. I specialize in building structured and scalable web applications using ASP.NET Core, EF Core, and SQL Server.<br><br>With hands-on experience in full-stack development, I have built role-based systems, e-commerce platforms, and management systems following layered architecture principles. I focus on clean code, organized project structure, and professional database design.<br><br>I also strengthen my problem-solving skills through competitive programming in C++, continuously improving my logical thinking and performance optimization abilities.<br><br>I am ambitious, detail-oriented, and always eager to learn, grow, and contribute to impactful software solutions.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tasnim-alkhatib-5263bb291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tasnim201050@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tasnim-alkhatib&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tasnim-alkhatib&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-alkhatib&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tasnim-alkhatib&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  ---
+  <h4>Computer Science Student | ASP.NET Core Backend Developer</h4><br>
+  <a href="https://linkedin.com/in/tasnim-alkhatib-5263bb291">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+<a href="mailto:tasnim201050@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tasnim-alkhatib&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3>💻 Tech Stack</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+<h3>📊 Engineering Activity</h3>
+<!-- <table width="75%">
+  <tr>
+    <td width="50%">
+       <img src="https://github-readme-stats.vercel.app/api?username=tasnim-alkhatib&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" />
+    </td>
+    <td width="50%">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-alkhatib&theme=tokyonight&layout=compact&hide_border=true" width="100%" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" width="100%">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-alkhatib&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" width="100%">
+       <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnim-alkhatib&theme=tokyonight&hide_border=true&area=true" width="100%" />
+    </td>
+  </tr>
+</table> -->
+
+ </div>
