@@ -1,7 +1,5 @@
 <div align="center">
   <h3>Hi, I'm Tasnim Alkhaib Mohamed 👩‍💻</h3>
-
-  ---
   <h4>Computer Science Student | ASP.NET Core Backend Developer</h4><br>
   <a href="https://linkedin.com/in/tasnim-alkhatib-5263bb291">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -26,27 +24,5 @@
 
 ---
 <h3>📊 Engineering Activity</h3>
-<!-- <table width="75%">
-  <tr>
-    <td width="50%">
-       <img src="https://github-readme-stats.vercel.app/api?username=tasnim-alkhatib&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" />
-    </td>
-    <td width="50%">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-alkhatib&theme=tokyonight&layout=compact&hide_border=true" width="100%" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td colspan="2" width="100%">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-alkhatib&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td colspan="2" width="100%">
-       <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnim-alkhatib&theme=tokyonight&hide_border=true&area=true" width="100%" />
-    </td>
-  </tr>
-</table> -->
-
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
  </div>
