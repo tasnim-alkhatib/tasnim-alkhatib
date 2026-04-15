@@ -9,21 +9,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # أهم خطوة: استخدام الإصدار v3.33 المستقر
+      - uses: lowlighter/metrics@v3.33
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: tasnim-alkhatib
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Africa/Cairo
           
-          # تفعيل لغات البرمجة (الدوائر الملونة)
+          # إظهار لغات البرمجة كجرافيكس (الدوائر الملونة)
           plugin_languages: yes
           plugin_languages_details: percentage
+          plugin_languages_indepth: yes
           
-          # تفعيل الرسم البياني للأسطر (المنحنى)
+          # إظهار الرسم البياني (المنحنى الأخضر)
           plugin_lines: yes
           
-          # إعدادات الشكل (Theme)
-          # ملاحظة: لو theme عمل مشكلة تانية، جربي تشيلي السطر ده وهيستخدم التلقائي
-          config_display: columns
+          # الـ Theme (الألوان الزرقاء والخضراء)
+          theme: tokyonight
+          
+          # ترتيب العناصر عشان تطلع "لوحة واحدة"
+          config_order: header, activity, community, repositories, languages, lines, metadata
