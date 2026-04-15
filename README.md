@@ -49,7 +49,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-alkhatib&theme=tokyonight&hide_border=true"/>
 
 <h2 align="left">📈 Activity Graph</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnim-alkhatib&theme=tokyonight&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnim-alkhatib&theme=tokyonight&hide_border=true&area=true" width="80%"/>
 
 <h2 align="left">🚀 Skills & Tech Stack</h2>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,php,mysql,sqlserver,git,github,html,css,bootstrap,postman,notion" />
