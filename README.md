@@ -9,18 +9,6 @@
 </a>
 
 <br>
-<h2 align="left">🧠 Professional Summary</h2>
-
-<p align="left">
-  I am an aspiring <b>Backend Developer</b> specializing in building scalable web applications with <b>ASP.NET Core</b>. 
-  I have a strong passion for <b>Clean Architecture</b>, Domain-Driven Design (DDD), and optimizing database performance.
-</p>
-
-🚀 **Core Focus:** Architecting modular RESTful APIs and Microservices. <br>
-🛠️ **Quality:** Crafting maintainable, testable code with a deep focus on SOLID principles and System Design. <br>
-🧠 **Logic:** Sharp problem-solving skills honed through Competitive Programming in **C++**.<br>
-
-<br>
 <h2 align="left">💻 Tech Stack</h2>
 
 <h3>💾 Backend Development</h3>
@@ -50,6 +38,33 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+
+<h2 align="left">📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=tasnim-alkhatib&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+
+<h2 align="left">🛠️ Most Used Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-alkhatib&theme=tokyonight&layout=compact&hide_border=true" />
+
+<h2 align="left">🔥 Contribution Streak</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-alkhatib&theme=tokyonight&hide_border=true"/>
+
+<h2 align="left">📈 Activity Graph</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnim-alkhatib&theme=tokyonight&hide_border=true&area=true"/>
+
+<h2 align="left">🚀 Skills & Tech Stack</h2>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,php,mysql,sqlserver,git,github,html,css,bootstrap,postman,notion" />
+
+<br>
+<h2 align="left">🧠 Professional Summary</h2>
+
+<p align="left">
+  I am an aspiring <b>Backend Developer</b> specializing in building scalable web applications with <b>ASP.NET Core</b>. 
+  I have a strong passion for <b>Clean Architecture</b>, Domain-Driven Design (DDD), and optimizing database performance.
+</p>
+
+🚀 **Core Focus:** Architecting modular RESTful APIs and Microservices. <br>
+🛠️ **Quality:** Crafting maintainable, testable code with a deep focus on SOLID principles and System Design. <br>
+🧠 **Logic:** Sharp problem-solving skills honed through Competitive Programming in **C++**.<br>
 
 <!-- <h2>📊 Engineering Activity</h2>
 <img src="/github-metrics.svg" alt="Metrics" width="80%"> -->
