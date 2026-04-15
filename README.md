@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hi, I'm Tasnim Alkhaib Mohamed 👩‍💻</h3>
+  <h2>Hi, I'm Tasnim Alkhaib Mohamed 👩‍💻</h2>
   <h4>Computer Science Student | ASP.NET Core Backend Developer</h4><br>
   <a href="https://linkedin.com/in/tasnim-alkhatib-5263bb291">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -8,8 +8,20 @@
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
----
-<h3 align="left">💻 Tech Stack</h3>
+<br>
+<h2 align="left">🧠 Professional Summary</h2>
+
+<p align="left">
+  I am an aspiring <b>Backend Developer</b> specializing in building scalable web applications with <b>ASP.NET Core</b>. 
+  I have a strong passion for <b>Clean Architecture</b>, Domain-Driven Design (DDD), and optimizing database performance.
+</p>
+
+🚀 **Core Focus:** Architecting modular RESTful APIs and Microservices. <br>
+🛠️ **Quality:** Crafting maintainable, testable code with a deep focus on SOLID principles and System Design. <br>
+🧠 **Logic:** Sharp problem-solving skills honed through Competitive Programming in **C++**.<br>
+
+<br>
+<h2 align="left">💻 Tech Stack</h2>
 
 <h3>💾 Backend Development</h3>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -39,9 +51,8 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 
----
-<h3>📊 Engineering Activity</h3>
-<img src="/github-metrics.svg" alt="Metrics" width="80%">
+<!-- <h2>📊 Engineering Activity</h2>
+<img src="/github-metrics.svg" alt="Metrics" width="80%"> -->
 
 
 </div>
