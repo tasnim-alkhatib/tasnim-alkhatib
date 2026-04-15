@@ -46,7 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-alkhatib&theme=tokyonight&layout=compact&hide_border=true" />
 
 <h2 align="left">🔥 Contribution Streak</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-alkhatib&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-alkhatib&theme=tokyonight&hide_border=true&cache=0"/>
 
 <h2 align="left">📈 Activity Graph</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnim-alkhatib&theme=tokyonight&hide_border=true&area=true" width="80%"/>
