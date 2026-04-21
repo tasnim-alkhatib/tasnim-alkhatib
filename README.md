@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi, I'm Tasnim Alkhaib Mohamed 👩‍💻</h2>
+  <h2>Hi, I'm Tasnim Alkhatib Mohamed 👩‍💻</h2>
   <h4>Computer Science Student | ASP.NET Core Backend Developer</h4><br>
   <a href="https://linkedin.com/in/tasnim-alkhatib-5263bb291">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
