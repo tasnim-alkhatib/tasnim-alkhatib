@@ -40,13 +40,12 @@
 <img src="https://img.shields.io/badge/Scalar-6131F1?style=for-the-badge&logo=scalar&logoColor=white" alt="Scalar">
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 
-## 📊 GitHub Stats
+<h2 align="left"> 📊 GitHub Stats</h2> 
+<img src="https://github-readme-stats.vercel.app/api?username=tasnim-alkhatib&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasnim-alkhatib&show_icons=true&theme=tokyonight)
+<h2 align="left">🛠️ Most Used Languages</h2> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-alkhatib&theme=tokyonight&layout=compact&hide_border=true" />
 
-## 🛠️ Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-alkhatib&layout=compact&theme=tokyonight)
 <!-- <h2 align="left">🔥 Contribution Streak</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-alkhatib&theme=tokyonight&hide_border=true&cache=0"/>
 
