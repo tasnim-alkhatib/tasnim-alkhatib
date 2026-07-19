@@ -66,10 +66,11 @@
 
 <h2 align="left">📈 Activity Graph</h2>
 <!-- كان هنا "YOUR_EXACT_USERNAME" وهو سبب عدم ظهور الصورة - استبدلته باليوزرنيم المستخدم في باقي الشعارات (tasnim-alkhatib). لو اليوزرنيم مختلف بالفعل غيّريه هنا -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnim-alkhatib&theme=tokyonight&hide_border=true&area=true" width="80%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnim-alkhatib&bg_color=0d1117&color=8b5cf6&line=512BD4&point=ffffff&area=true&hide_border=true" width="80%"/>
 
 <h2 align="left">🚀 Skills & Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,html,css,bootstrap,postman,notion" />
+<!-- شيلت sqlserver من هنا لأنها مش من ضمن الأيقونات المدعومة في skillicons.dev، وده كان سبب الفراغ اللي ظاهر -->
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,html,css,bootstrap,postman,notion" />
 
 <br>
 
