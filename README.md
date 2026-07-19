@@ -56,10 +56,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,100:239120&height=3&width=100%" width="100%"/>
 
 <h2 align="left"> 📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=tasnim-alkhatib&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<!-- الدومين الأصلي github-readme-stats.vercel.app واقع/بيطلع Rate Limit من فترة (مشكلة معروفة ومنتشرة عند الكل، مش حاجة غلط في الكود). استخدمت بدله github-stats-extended وهو fork متابَع بيشتغل بنفس الطريقة بالظبط -->
+<img src="https://github-stats-extended.vercel.app/api?username=tasnim-alkhatib&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 
 <h2 align="left">🛠️ Most Used Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnim-alkhatib&theme=tokyonight&layout=compact&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tasnim-alkhatib&theme=tokyonight&layout=compact&hide_border=true" />
 
 <h2 align="left">🔥 Contribution Streak</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim-alkhatib&theme=tokyonight&hide_border=true&cache=0"/>
