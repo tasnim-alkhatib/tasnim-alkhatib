@@ -5,7 +5,7 @@
 
 <!-- Animated typing intro -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+ASP.NET+Core;Clean+Architecture+%26+DDD+Enthusiast;Competitive+Programmer+in+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+ASP.NET+Core" alt="Typing SVG" />
 </a>
 
 <br>
